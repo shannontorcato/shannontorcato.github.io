@@ -1,7 +1,3 @@
-html { background-color: #000; } 
-body {
-    min-height: 100vh;
-    max-width: 400px;
-    background-color: papayawhip; 
+body { 
     margin: 0 auto;
 }
